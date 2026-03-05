@@ -1,3 +1,8 @@
 Sistem informatic pentru planificarea și optimizarea bugetului national
 
-Aplicatia permite planificarea, alocarea si monitorizarea bugetului national. Sistemul permite introducerea veniturilor si cheltuielilor, repartizarea fondurilor pe domenii, institutii si programe. Sistemul urmareste executia bugetara prin comparatia dintre sumele planificate si cele realizate, evidentiind abaterile si oferind rapoarte centralizate pentru analiza. In plus, include functii de simulare a scenariilor pentru  a sprijini luarea deciziilor, prioritizarea investitiilor si gestionarea fondurilor de rezerva sau a situatiilor de urgenta, contribuind la o administrare mai transparenta si mai eficienta a resurselor publice. 
+Aplicatia permite planificarea, alocarea si monitorizarea bugetului national. Sistemul permite introducerea veniturilor si cheltuielilor, 
+repartizarea fondurilor pe domenii, institutii si programe. Sistemul urmareste executia bugetara prin comparatia dintre sumele planificate 
+si cele realizate, evidentiind abaterile si oferind rapoarte centralizate pentru analiza. In plus, include functii de simulare a scenariilor 
+pentru  a sprijini luarea deciziilor, prioritizarea investitiilor si gestionarea fondurilor de rezerva sau a situatiilor de urgenta, 
+contribuind la o administrare mai transparenta si mai eficienta a resurselor publice. 
+

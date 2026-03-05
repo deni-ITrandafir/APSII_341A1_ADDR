@@ -1,0 +1,7 @@
+Actori si rolurile lor in sistem 
+
+Beneficiari (System Stakeholder): Cetățenii, instituțiile publice, ministerele și autoritățile locale, interesați direct ca bugetul național să fie planificat și administrat eficient, transparent și predictibil, astfel încât resursele publice să fie alocate corect către domeniile prioritare și să existe control asupra execuției bugetare.
+
+Utilizatori de sistem: Cuprinde administratorul platformei bugetare (gestionează tehnic aplicația, utilizatorii și drepturile, precum și nomenclatoarele și regulile de funcționare) și un coordonator instituțional (responsabil de configurarea parametrilor specifici instituției, validarea structurii programelor bugetare și administrarea fluxului de raportare).
+
+Utilizatori final: Reprezentanții instituțiilor publice și ai autorităților locale (operatori bugetari și decidenți), care folosesc interfața aplicației pentru a introduce veniturile și cheltuielile, a propune și ajusta alocări pe domenii/instituții/programe, a urmări execuția bugetară (planificat vs realizat), a genera rapoarte și a rula simulări de scenarii pentru sprijinirea deciziilor, dar si cetățeanul reprezintă un utilizator final care are rolul de a consulta informațiile publice disponibile pe platforma. 

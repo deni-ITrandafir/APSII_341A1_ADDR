@@ -1,0 +1,36 @@
+Nomenclator de termeni 
+
+Sistem informatic – ansamblu software care gestionează date și procese pentru planificarea, alocarea și monitorizarea bugetului.
+Platformă (bugetară) – sistemul informatic prin care se introduc, se prelucrează și se consultă datele bugetare.
+Buget național – planificarea veniturilor și cheltuielilor statului pentru o perioadă, inclusiv distribuirea acestora pe categorii.
+Planificare (a bugetului) – stabilirea sumelor estimate pentru venituri și cheltuieli înainte de execuția bugetară.
+Optimizare (a bugetului) – îmbunătățirea alocărilor și deciziilor bugetare prin analiză, rapoarte și simulări.
+Alocare (bugetară) – repartizarea sumelor către domenii, instituții și programe.
+Monitorizare (a bugetului) – urmărirea continuă a bugetului și a execuției bugetare în platformă.
+Venituri – sumele încasate în buget.
+Cheltuieli – sumele plătite din buget.
+Fonduri – sumele disponibile pentru a fi repartizate prin buget.
+Repartizarea fondurilor – distribuirea fondurilor pe domenii, instituții și programe.
+Domenii – categorii principale către care se alocă fonduri (ex.: sănătate, educație etc.).
+Instituții – entități publice care gestionează sau primesc alocări bugetare.
+Programe – structuri bugetare prin care sunt planificate și finanțate activități/obiective.
+Execuție bugetară – realizarea efectivă a bugetului în perioada de implementare.
+Sume planificate – valori stabilite inițial în planificare.
+Sume realizate – valori efectiv înregistrate în execuția bugetară.
+Comparația (planificat vs realizat) – verificarea diferențelor dintre sumele planificate și cele realizate.
+Abateri – diferențe între sumele planificate și sumele realizate.
+Rapoarte centralizate – rapoarte agregate generate de platformă pentru analiză.
+Analiză – interpretarea datelor bugetare și a rapoartelor pentru identificarea situației curente și a abaterilor.
+Simulare a scenariilor – funcționalitate prin care se testează impactul unor modificări asupra bugetului.
+Luarea deciziilor – procesul de stabilire/ajustare a alocărilor pe baza rapoartelor și simulărilor.
+Prioritizarea investițiilor – stabilirea ordinii/ importanței investițiilor în funcție de resurse și necesități.
+Fonduri de rezervă – sume păstrate pentru situații neprevăzute.
+Situații de urgență – evenimente care necesită alocări rapide și excepționale din buget.
+Administrare – gestionarea resurselor bugetare prin planificare, alocare și monitorizare.
+Transparență – posibilitatea de a consulta date și informații relevante despre buget în mod clar.
+Eficiență – utilizarea resurselor publice astfel încât rezultatele să fie obținute cu risipă minimă.
+Resurse publice – totalul fondurilor financiare gestionate de stat.
+Coordonator instituțional – utilizator de sistem responsabil de configurarea parametrilor specifici instituției și administrarea fluxului de raportare.
+Operatori bugetari – utilizatori finali care introduc veniturile și cheltuielile și operează alocări pe domenii/instituții/programe.
+Decidenți – utilizatori finali care analizează rapoarte și folosesc simulări de scenarii pentru decizii.
+Cetățean – utilizator final care are rolul de a consulta informațiile publice disponibile pe platformă.

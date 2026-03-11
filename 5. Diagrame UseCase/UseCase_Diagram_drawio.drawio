@@ -1,0 +1,283 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="68vgWiJRaCwruBXBP_I7">
+    <mxGraphModel dx="2652" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-7" name="Decident" shape="umlActor" fill="#ffffff" assoc="18,21,23" include="" extend="" generalize="6" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="90" width="80" x="-240" y="1150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-8" name="Cetățean" shape="umlActor" fill="#ffffff" assoc="27" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="100" width="100" x="-300" y="1580" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-9" name="Utilizator Autentificat" shape="umlActor" fill="#ffffff" assoc="10" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="100" width="120" x="60" y="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-10" name="Autentificare în sistem" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="140" x="730" y="570" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-11" name="Gestionează sistemul informatic" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="190" x="210" y="215" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-12" name="Configurează parametrii specifici" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="200" x="205" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-14" name="Introduce venituri și cheltuieli" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="180" x="215" y="820" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-15" name="Operează alocări bugetare" shape="ellipse" fill="#e0ffff" assoc="" include="10,16" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="170" x="220" y="570" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-16" name="Repartizarea fondurilor" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="150" x="580" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-17" name="Înregistrează execuția bugetară" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="190" x="210" y="990" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-18" name="Monitorizare a bugetului" shape="ellipse" fill="#e0ffff" assoc="" include="10,19" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="150" x="230" y="1390" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-19" name="Comparația (planificat vs realizat)" shape="ellipse" fill="#e0ffff" assoc="" include="20" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="200" x="425" y="1550" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-20" name="Identifică abateri" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="110" x="740" y="1550" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-21" name="Analiză pe rapoarte centralizate" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="190" x="260" y="1090" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-23" name="Luarea deciziilor" shape="ellipse" fill="#e0ffff" assoc="" include="10,24" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="110" x="250" y="1270" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-24" name="Prioritizarea investițiilor" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="150" x="510" y="1200" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-25" name="Gestionează fonduri de rezervă" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="23" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="190" x="820" y="1340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-26" name="Situații de urgență" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="25" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="120" x="1140" y="1340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-27" name="Consultă transparența bugetară" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="190" x="110" y="1615" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-28" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-4" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-29" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-13" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-30" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-5" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-31" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-6" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-32" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-6" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-33" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-6" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-34" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-7" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-35" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-7" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-36" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-7" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-37" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-8" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-38" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-9" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-39" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-11" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-40" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-12" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-41" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-13" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-42" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-14" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-43" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-15" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-44" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-15" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-16" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-45" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-17" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-46" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-18" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-47" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-18" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-19" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" x="0.0002" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="305" y="1565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-48" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-19" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-20" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-49" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-22" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-50" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-23" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-10" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-51" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-23" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-24" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-52" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dttB6IjoG2xLyxAl6FNE-21" value="&lt;&lt;extend&gt;&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="620" />
+              <mxPoint x="90" y="620" />
+              <mxPoint x="90" y="1110" />
+            </Array>
+            <mxPoint x="730" y="590" as="sourcePoint" />
+            <mxPoint x="90" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-53" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-25" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-23" value="&lt;&lt;extend&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-54" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-26" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-25" value="&lt;&lt;extend&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-55" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-4" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-56" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-5" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-57" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-6" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-58" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-4" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-59" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-5" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="870" as="sourcePoint" />
+            <mxPoint x="-15" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-4" name="Administrator Platformă" shape="umlActor" fill="#ffffff" assoc="11" include="" extend="" generalize="6" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="100" width="140" x="-270" y="180" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-60" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-7" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="870" as="sourcePoint" />
+            <mxPoint x="-45" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-6" name="Operator Bugetar" shape="umlActor" fill="#ffffff" assoc="14,15,17" include="" extend="" generalize="6" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="90" width="110" x="-255" y="700" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-61" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-6" style="endArrow=block;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="620" as="sourcePoint" />
+            <mxPoint x="-200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-5" name="Coordonator Instituțional" shape="umlActor" fill="#ffffff" assoc="12,13" include="" extend="" generalize="6" placeholders="1">
+          <mxCell parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;fillColor=#ffffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="80" width="110" x="-255" y="430" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-62" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-5" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-145" y="470" as="sourcePoint" />
+            <mxPoint x="305" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-13" name="Administrează fluxul de raportare" shape="ellipse" fill="#e0ffff" assoc="" include="10" extend="" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="200" x="205" y="455" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-65" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-21" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="dttB6IjoG2xLyxAl6FNE-22" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1105" />
+            </Array>
+            <mxPoint x="472.47" y="1075" as="sourcePoint" />
+            <mxPoint x="697.47" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dttB6IjoG2xLyxAl6FNE-66" edge="1" parent="1" source="dttB6IjoG2xLyxAl6FNE-21" style="endArrow=open;endSize=12;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;" target="dttB6IjoG2xLyxAl6FNE-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1105" as="sourcePoint" />
+            <mxPoint x="800" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%" id="dttB6IjoG2xLyxAl6FNE-22" name="Rulează simulare a scenariilor" shape="ellipse" fill="#e0ffff" assoc="" include="" extend="21" generalize="" placeholders="1">
+          <mxCell parent="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#e0ffff;verticalAlign=top;" vertex="1">
+            <mxGeometry height="30" width="180" x="580" y="1090" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

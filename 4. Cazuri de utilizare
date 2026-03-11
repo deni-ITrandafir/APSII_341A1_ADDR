@@ -1,0 +1,21 @@
+Cazuri de Utilizare
+1. Coordonatorul instituțional
+UC1: Configurează parametrii specifici instituției.
+UC2: Administrează fluxul de raportare în platformă.
+
+2. Operatorul bugetar
+UC3: Introduce veniturile și cheltuielile (sumele planificate).
+UC4: Operează alocări pe domenii, instituții și programe (repartizarea fondurilor).
+UC5: Înregistrează datele pentru execuția bugetară (sumele realizate).
+
+3. Decidentul
+UC6: Analizează rapoartele centralizate pentru a identifica situația curentă și abaterile (comparația planificat vs realizat).
+UC7: Rulează simulări de scenarii pentru a testa impactul modificărilor.
+UC8: Realizează prioritizarea investițiilor în funcție de resurse.
+UC9: Alocă fonduri de rezervă pentru situații de urgență, sprijinind luarea deciziilor.
+
+4. Cetățeanul
+UC10: Consultă informațiile publice disponibile pe platformă (pentru transparență).
+
+5. Administratorul platformei (Implicit pentru funcționarea Sistemului Informatic)
+UC11: Gestionează tehnic sistemul informatic (utilizatori, drepturi și nomenclatoare).
